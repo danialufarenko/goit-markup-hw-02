@@ -126,6 +126,9 @@ body {
     color: #212121;
 }
 /*------------TEAM------------*/
+.team {
+    background-color: #F5F4FA;
+}
 .team-title {
     font-family: inherit;
     font-weight: 700;
